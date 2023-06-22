@@ -10,3 +10,8 @@ body {
 strong {
   color: #F266AB
 }
+
+.apresentacao {
+    display: flex;
+    align-items: center;
+}
