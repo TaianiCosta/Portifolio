@@ -21,7 +21,10 @@ strong {
 }
 
 .apresentacao_conteudo {
-    width: 615px;
+   	width: 615px;
+	display: flex;
+	flex-direction: column;
+	gap: 40px;
 }
 
 .apresentacao_conteudo_titulo {
